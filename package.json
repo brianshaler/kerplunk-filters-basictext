@@ -4,9 +4,9 @@
   "description": "",
   "version": "0.0.1",
   "kerplunk": {
-    "dependencies": {
+    "dependencies": [
       "kerplunk-filters"
-    }
+    ]
   },
   "keywords": [
     "kerplunk-plugin",
