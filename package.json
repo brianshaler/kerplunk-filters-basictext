@@ -35,5 +35,6 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/brianshaler/kerplunk-filters-basictext.git"
-  }
+  },
+  "license": "MIT"
 }
