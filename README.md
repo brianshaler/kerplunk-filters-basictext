@@ -1,6 +1,6 @@
 # kerplunk-filters-basictext
 
-[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. 
+[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. Filter conditions for ActivityItems which contain or don't contain specific text
 
 [![Build Status](https://travis-ci.org/brianshaler/kerplunk-filters-basictext.svg)](https://travis-ci.org/brianshaler/kerplunk-filters-basictext)
 [![npm version](https://img.shields.io/npm/v/kerplunk-filters-basictext.svg)](https://www.npmjs.com/package/kerplunk-filters-basictext)
