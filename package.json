@@ -2,7 +2,7 @@
   "name": "kerplunk-filters-basictext",
   "displayName": "Basic Text Filters",
   "description": "Filter conditions for ActivityItems which contain or don't contain specific text",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "kerplunk": {
     "dependencies": [
       "kerplunk-filters"
